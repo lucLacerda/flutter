@@ -1,3 +1,6 @@
+import 'dart:async';
+
+import 'package:disable_screenshots/disable_screenshots.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,6 +15,18 @@ class ToDoList extends StatefulWidget {
 }
 
 class _ToDoListState extends State<ToDoList> {
+
+  DisableScreenshots _plugin = DisableScreenshots();
+
+  late StreamSubscription<void> _screenshotsSubscription;
+
+  @override
+  void initState() {
+    super.initState();
+    _screenshotsSubscription = _plugin.onScreenShots.listen((event) {
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -32,15 +47,10 @@ class _ToDoListState extends State<ToDoList> {
   }
 
   Widget _body() {
-    return Center(
-      child: Container(
+    return const Center(
+      child: SizedBox(
         height: 600,
-        child: Container(
-            child:
-              Container(
-                child: Text('Titulo'),
-              ),
-        ),
+        child: Text('Titulo'),
       ),
     );
   }
