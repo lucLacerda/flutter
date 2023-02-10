@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/lista_tarefas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/lista_tarefas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/lista_tarefas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_screenshot_disable/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_screenshot_disable/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_screenshot_disable/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_showcaseview_teste/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_showcaseview_teste/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_showcaseview_teste/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_blur_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_window_manager/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_window_manager/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_window_manager/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projetos_treino/contador1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/teste_de_textoo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/teste_de_textoo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/teste_de_textoo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_teste01/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_teste01/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_teste01/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
